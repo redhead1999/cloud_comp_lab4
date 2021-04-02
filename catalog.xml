@@ -7,9 +7,65 @@
 		<price>890 руб/месяц</price>
 	</book>
 	<book>
-		<author>Алекс Хоумер</author>
+		<author>Облачные решения</author>
 		<title>Dimanic HTML</title>
 		<pubyear>2004</pubyear>
-		<price>120</price>
+		<price>8490 руб/месяц</price>
 	</book>
+<book>
+		<author>Размещение серверов</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>3200 руб/месяц</price>
+	</book>
+<book>
+		<author>Размещение серверной стойки 3 кВТ/ч</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>37000 руб/месяц</price>
+	</book>
+
+<book>
+		<author>Размещение серверной стойки 4 кВТ/ч</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>42500 руб/месяц</price>
+	</book>
+
+<book>
+		<author>Предоставление дополнительного 1 кВТ/ч</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>6000 руб</price>
+	</book>
+
+<book>
+		<author>Аренда серверного шкафа 47U</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>6500 руб</price>
+	</book>
+<book>
+		<author>Размещение сервера 1U</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>3200 руб/месяц</price>
+	</book>
+
+<book>
+		<author>Размещение сервера 2U</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>5300 руб/месяц</price>
+	</book>
+
+<book>
+		<author>Размещение сервера 4U</author>
+		<title>Dimanic HTML</title>
+		<pubyear>2004</pubyear>
+		<price>7000 руб/месяц</price>
+	</book>
+
+
+
 </catalog>
