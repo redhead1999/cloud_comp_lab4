@@ -14,10 +14,10 @@
 ?>	
 <html>
 	<head>
-		<title>Каталог</title>
+		<title>Стоимость предоставляемых услуг STACK24</title>
 	</head>
 	<body>
-	<h1>Каталог книг</h1>
+	<h1>Список услуг</h1>
 	<table border="1" width="100%">
 		<tr>
 			<th>Автор</th>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <catalog>
 	<book>
-		<author>Алекс Гомер</author>
-		<title>XML и IE5</title>
-		<pubyear>2000</pubyear>	
-		<price>200</price>
+		<author>Аренда серверов</author>
+		<title>Сервера на базе CPU Intel Xeon E3/E5
+		Память от 8 Gb до 256 Gb DDR4</title>
+		<price>890 руб/месяц</price>
 	</book>
 	<book>
 		<author>Алекс Хоумер</author>
