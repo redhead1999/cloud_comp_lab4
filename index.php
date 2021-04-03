@@ -10,7 +10,7 @@
 <?php
 	header("Content-type: text/html; Charset=UTF-8;"); 
 	//Создание объекта и загрузка в него документа
-	$sxml = simplexml_load_file("catalog.xml");
+	$sxml = simplexml_load_file("/php-xml/catalog.xml");
 ?>	
 <html>
 	<head>
