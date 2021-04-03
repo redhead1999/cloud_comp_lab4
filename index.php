@@ -10,7 +10,7 @@
 <?php
 	header("Content-type: text/html; Charset=UTF-8;"); 
 	//Создание объекта и загрузка в него документа
-	$sxml = simplexml_load_file("/php-xml/catalog.xml");
+	$sxml = simplexml_load_file("catalog.xml")
 ?>	
 <html>
 	<head>
@@ -21,8 +21,7 @@
 	<table border="1" width="100%">
 		<tr>
 			<th>Услуга</th>
-			<th>Название</th>
-			<th>Год издания</th>
+			<th>Описание</th>
 			<th>Цена, руб</th>
 		</tr>
 <?php
@@ -31,7 +30,6 @@
 		echo "<tr>";
 		echo "<td>", $book->author, "</td>";
 		echo "<td>", $book->title, "</td>";
-		echo "<td>", $book->pubyear, "</td>";
 		echo "<td>", $book->price, "</td>";
 		echo "</tr>";
 	}
